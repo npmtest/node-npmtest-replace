@@ -1,0 +1,31 @@
+<svg height="446" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="446" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 13:05:26 +0000    25736 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 13:05:26 +0000     2311 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 13:05:26 +0000     1292 bytes  bin/replace.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 13:05:26 +0000      235 bytes  bin/search.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 13:05:26 +0000     2131 bytes  bin/shared-options.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 13:05:26 +0000      450 bytes  defaultignore</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 13:05:26 +0000     2119 bytes  package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 13:05:26 +0000     1922 bytes  refactor.diff</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 13:05:26 +0000     5593 bytes  replace.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 13:05:26 +0000     2046 bytes  t.diff</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 13:05:26 +0000      634 bytes  test.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 13:05:26 +0000       42 bytes  test.txt</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 13:05:26 +0000      300 bytes  test/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 13:05:26 +0000     2929 bytes  test/paths.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 13:05:26 +0000     2436 bytes  test/sanity.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 13:05:26 +0000        6 bytes  test/test_files/test_basic.txt</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 13:05:26 +0000        4 bytes  test/test_files/test_case.txt</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 13:05:26 +0000        7 bytes  test/test_files/test_multiline.txt</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 13:05:26 +0000        5 bytes  test/test_files/test_numbers.txt</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 13:05:26 +0000        4 bytes  test/test_files/test_paths/sample1.txt</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 13:05:26 +0000        4 bytes  test/test_files/test_paths/test.png</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 13:05:26 +0000        4 bytes  test/test_files/test_paths/test1.txt</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 13:05:26 +0000        4 bytes  test/test_files/test_paths/test2.txt</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 13:05:26 +0000        4 bytes  test/test_files/test_preview.txt</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 13:05:26 +0000       50 bytes  testfunc.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 13:05:26 +0000     1204 bytes  wwcode.scss</tspan>
+</text>
+</svg>
